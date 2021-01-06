@@ -12,7 +12,10 @@ The dataset used is an OpenFEMA Dataset for Disaster Declarations and can be fou
 
 ### ARIMA Modeling
 
-Using ARIMA Modeling I predicted the future of top three natural disasters to most commonly occur in the U.S. This modeling looked at the occurance of natural disaster up to 36 months in the future from 01-01-2020. The ARIMA modeling provided a predicted value, 
+Using ARIMA Modeling I predicted the future of top three natural disasters to most commonly occur in the U.S. This modeling looked at the occurance of natural disaster up to 36 months in the future from 01-01-2020. The ARIMA modeling provided a predicted value,
+
+<img src='https://github.com/rachelbeery/dsc-phase-4-project/blob/main/natdispred.png?raw=true'>
+
 ### Conclusion
 
 The top three natural disasters in the U.S.A since 1970 that I studied are:
