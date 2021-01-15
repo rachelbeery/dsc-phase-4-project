@@ -21,7 +21,7 @@ Using ARIMA Modeling I predicted the future of top three natural disasters to mo
 The top three natural disasters in the U.S.A since 1970 that I studied are:
 
 - Severe Storms
-    -FEMA should prepare communities for severe storms at highest risk before May in following years
+    - FEMA should prepare communities for severe storms at highest risk before May in following years
 -  Hurricanes
     - FEMA should prepare communities for severe storms at highest risk in August to October
 -  Floods
